@@ -1,0 +1,24 @@
+.col-md-9.col-lg-12.col-xl-10{top:100px}strong{font-weight:600}
+.Rectngulo-2 {
+    width: 180px;
+    height: 200px;
+    border-radius: 26px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.76);
+    background-image: linear-gradient(140deg, #dd0099 -46%, #f6c23e 119%);
+  }
+
+
+.dropdown:hover .dropdown-menu {
+    display: block;}
+
+#notifications {
+  height: 500px;
+  overflow-y: scroll;
+}
+
+
+
+.scroll_s {
+  height: 350px;
+  overflow-y: scroll;
+}
